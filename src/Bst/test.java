@@ -14,6 +14,7 @@ public class test {
 			   
 			   Scanner sc=new Scanner(System.in);
 			   
+			   System.out.println("GitHUb commit");
 			   
 			   while(true)
 			   {
